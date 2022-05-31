@@ -1,0 +1,15 @@
+name: protectingwhales
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - geopandas
+  - jupyterlab-git
+  - contextily
+  - gpxpy
+  - matplotlib
+  - numpy
