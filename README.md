@@ -1,7 +1,8 @@
-# protecting-whales-from-ships-22
+# Cartography - Dominica Whale Safe 
+
 **Authors:** Grace Kumaishi and Julia Parish
 
-Due date: 2021-11-16 23:59
+Due date: 2021-11-16
 
 ## Motivation
 The Worthwhale MESM group project (Bren School class of 2020) performed an economic valuation of whale watching tourism in Dominica (do-mi-NEE-ka), a Caribbean island nation. They found that:
